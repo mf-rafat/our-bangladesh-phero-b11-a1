@@ -26,8 +26,8 @@ body{
 
 
 }
-.btn-primary:hover{
-    background-color: crimson;
+.btn-primary:hover , .quantity:hover{
+    background-color: #de405f;
 
 }
 
