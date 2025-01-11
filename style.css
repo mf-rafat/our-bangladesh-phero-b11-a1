@@ -162,7 +162,7 @@ background-color: #09A15C;
 .Quote{
     margin: 20px;
     padding: 5px 0;
-    background-image: url(/assets/quote-bg.png);
+    background-image: url(./assets/quote-bg.png);
     background-repeat: no-repeat;
 }
 
