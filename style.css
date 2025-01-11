@@ -78,7 +78,7 @@ body{
 }
 .header-banner-title{
     width: 600px;
-    margin: auto;
+    margin: 0 32px;
 }
 
 .header-title{
@@ -174,7 +174,7 @@ background-color: #09A15C;
     justify-content: center;
     background-color: #FFFFFF;
     border-radius: 10px;
-    padding: 20px;
+    padding: 10px;
     margin-top:  24px; 
 }
 .news-picture{
@@ -256,9 +256,8 @@ background-color: #09A15C;
 /*--------------------------- <!-- section part of footer  -->
 ----------------------------- */
 .footer{
-    width: 1280px;
     background-color: #fff;
-    padding: 10px 0;
+    margin: 10px 0;
 }
 .footer-contant{
     width: 1122px;
