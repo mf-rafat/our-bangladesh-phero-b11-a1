@@ -27,13 +27,11 @@ body{
 
 }
 .btn-primary:hover{
-    
+    background-color: crimson;
 
 }
 
-.common-backgraound{
 
-}
 .section-title{
     font-weight: 700;
     font-size: 40px;
