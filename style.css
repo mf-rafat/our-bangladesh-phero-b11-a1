@@ -141,6 +141,26 @@ background-color: #09A15C;
 .card-btn-bg-thee{
     background-color: #FFC239;
 }
+/* ----------------------------------
+<!--  section part off  Quote Section bonus part  --> 
+-----------------------------------*/
+.Quote-Section{
+    background-color: #FFFFFF;
+    margin: 20px 0;
+    padding: 5px 0;
+    border-radius: 10px;
+   
+}
+.Quote{
+    margin: 20px;
+    padding: 5px 0;
+    background-image: url(/assets/quote-bg.png);
+    background-repeat: no-repeat;
+}
+
+
+
+
 
 /* ------------------ */
 /* this style part off recent- news */
