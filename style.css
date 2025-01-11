@@ -23,12 +23,20 @@ body{
     font-size: 18px;
     background-color: #006A50;
     color: #FFFFFF;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 
 
 }
-.btn-primary:hover , .quantity:hover{
+.btn-primary:hover  {
     background-color: #de405f;
+    transform: scale(1.1);
 
+}
+.btn-primary:active {
+    transform: scale(0.95); 
+  }
+.quantity:hover{
+    background-color: #15ff00;
 }
 
 
@@ -203,6 +211,7 @@ background-color: #09A15C;
     margin: 0 10px ;
     background-color: #FFFFFF;
     border-radius: 10px;
+    transition: background-color 0.3s ease;
 }
 .quantity > h3{
     font-weight: 700;
